@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FootballDB</string>
+    <string name="premier_league">Premier league</string>
+    <string name="la_liga">La Liga</string>
+    <string name="bundesliga">Bundesliga</string>
+    <string name="ligue1">Ligue 1</string>
+    <string name="serie_A">Serie A</string>
+</resources>
